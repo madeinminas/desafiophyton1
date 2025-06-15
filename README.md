@@ -44,8 +44,6 @@ Para executar este projeto, siga os passos abaixo:
 1) Acesse o Google Colab com sua conta Google.
 2) Faça upload do arquivo AluraStoreBr.ipynb.
 3) Execute as células em sequência.
-4) Certifique-se de que os arquivos de dados
- (caso utilizados) estejam carregados no ambiente ou ajustados para o caminho correto.
 
 🧠 Conclusão
 Este projeto exemplifica como análises simples e bem visualizadas podem trazer insights importantes para decisões estratégicas em um negócio varejista. Aproveite e adapte à sua realidade!
