@@ -15,6 +15,7 @@ Visualizações gráficas para melhor interpretação
 Geração de insights acionáveis para o negócio
 
 📊 Exemplos de Gráficos e Insights
+
 📌 Faturamento por Loja
 Visualização em formato de gráfico de pizza representando o percentual do faturamento total por loja:
 
