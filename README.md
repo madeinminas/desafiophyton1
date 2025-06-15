@@ -1,4 +1,5 @@
 🛍️ Alura Store - Análise de Vendas
+
 Este projeto tem como objetivo analisar os dados de vendas da rede Alura Store, composta por quatro lojas. Através da análise exploratória de dados (EDA), buscamos entender o desempenho das lojas, produtos mais vendidos, categorias em destaque e o faturamento gerado, extraindo insights relevantes para o negócio.
 
 📁 Estrutura do Projeto
